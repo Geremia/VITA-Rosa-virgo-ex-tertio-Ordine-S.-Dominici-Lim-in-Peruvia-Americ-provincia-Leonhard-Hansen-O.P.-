@@ -1,0 +1,14 @@
+4/5/26, 3:46 AM
+Project Statistics
+
+                 	Segments	 Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	    5505	107523	                 708217	                812269	     1	
+Remaining:       	       6	    41	                    293	                   324	     1	
+Unique:          	    5370	107353	                 707162	                811129	     1	
+Unique Remaining:	       6	    41	                    293	                   324	     1	
+
+
+Individual File Statistics:
+
+File Name                                               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Hansen biography of St. Rose of Lima 🇻🇦/26.August.html	          5505	                 6	           5370	                        6	     107523	             41	      107353	                    41	                       708217	                              293	                        707162	                                     293	                      812269	                             324	                       811129	                                    324	
