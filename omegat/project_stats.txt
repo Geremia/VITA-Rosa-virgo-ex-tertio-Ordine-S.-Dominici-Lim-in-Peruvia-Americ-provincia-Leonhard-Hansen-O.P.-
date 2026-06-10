@@ -1,14 +1,14 @@
-22/05/26, 17:12
-Statistiche del progetto
+6/10/26, 4:00 PM
+Project Statistics
 
-                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
-Totali:          	    5505	107523	                 708217	               812269	    1	
-Restanti:        	       6	    41	                    293	                  324	    1	
-Univoci:         	    5370	107353	                 707162	               811129	    1	
-Univoci restanti:	       6	    41	                    293	                  324	    1	
+                 	Segments	 Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	    5505	107523	                 708217	                812269	     1	
+Remaining:       	       7	    42	                    305	                   337	     1	
+Unique:          	    5370	107353	                 707162	                811129	     1	
+Unique Remaining:	       7	    42	                    305	                   337	     1	
 
 
-Statistiche file singoli:
+Individual File Statistics:
 
-Nome del file                                           	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri rimanenti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci rimanenti (senza spazi)	Caratteri totali (con spazi)	Caratteri rimanenti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci rimanenti (con spazi)	
-Hansen biography of St. Rose of Lima 🇻🇦/26.August.html	           5505	                6	            5370	                        6	       107523	             41	         107353	                      41	                        708217	                              293	                         707162	                                      293	                      812269	                            324	                       811129	                                    324	
+File Name                                               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Hansen biography of St. Rose of Lima 🇻🇦/26.August.html	          5505	                 7	           5370	                        7	     107523	             42	      107353	                    42	                       708217	                              305	                        707162	                                     305	                      812269	                             337	                       811129	                                    337	
