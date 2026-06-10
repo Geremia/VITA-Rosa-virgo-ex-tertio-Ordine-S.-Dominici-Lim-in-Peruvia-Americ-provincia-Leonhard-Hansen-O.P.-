@@ -1,0 +1,1 @@
+🇬🇧 transl. of [Hansen's _Vita_](https://www.heiligenlexikon.de/ActaSanctorum/26.August.html#:~:text=conferemus.-,VITA,est.,-Rosa) using [DeepL + OmegaT](https://github.com/Geremia/Batch-translate-OmegaT-segments)
